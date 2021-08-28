@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is sample docker project 2</h2>
+<h2>This is my first sample tomcat project</h2>
 </body>
 </html>
